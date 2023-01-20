@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="click_the_button">Click the button!</string>
+    <string name="click_for_greetings">Click for Greetings</string>
+</resources>
